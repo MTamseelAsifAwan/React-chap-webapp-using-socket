@@ -1,0 +1,14 @@
+.custom-toggle .react-toggle-track {
+   height: 30px;
+    width: 44px; /* Adjust the height as needed */
+    
+  }
+  
+  .custom-toggle .react-toggle-thumb {
+    width: 20px; /* Adjust the width as needed */
+    height: 24px; /* Adjust the height as needed */
+  }
+  .nav{
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.9); /* Shadow */
+
+  }

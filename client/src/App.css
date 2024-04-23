@@ -1,0 +1,25 @@
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.user-list {
+  margin-bottom: 20px;
+}
+
+.user-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.user-list li {
+  margin-bottom: 5px;
+}
+
+.message-list {
+  width: 80%;
+  max-height: 400px;
+  overflow-y: auto;
+}
